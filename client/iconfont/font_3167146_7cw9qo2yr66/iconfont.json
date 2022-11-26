@@ -1,0 +1,268 @@
+{
+  "id": "3167146",
+  "name": "gshop_client",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "外卖app客户端",
+  "glyphs": [
+    {
+      "icon_id": "1727278",
+      "name": "09安全、保障",
+      "font_class": "anquanbaozhang",
+      "unicode": "e892",
+      "unicode_decimal": 59538
+    },
+    {
+      "icon_id": "1727279",
+      "name": "09安全、保障-线性",
+      "font_class": "anquanbaozhang-xianxing",
+      "unicode": "e893",
+      "unicode_decimal": 59539
+    },
+    {
+      "icon_id": "1727280",
+      "name": "10仓库、仓储",
+      "font_class": "cangkucangchu",
+      "unicode": "e894",
+      "unicode_decimal": 59540
+    },
+    {
+      "icon_id": "1727281",
+      "name": "10仓库、仓储-线性",
+      "font_class": "cangkucangchu-xianxing",
+      "unicode": "e895",
+      "unicode_decimal": 59541
+    },
+    {
+      "icon_id": "1727329",
+      "name": "11中转站-线性",
+      "font_class": "zhongzhuanzhan-xianxing",
+      "unicode": "e896",
+      "unicode_decimal": 59542
+    },
+    {
+      "icon_id": "1727330",
+      "name": "11中转站",
+      "font_class": "zhongzhuanzhan",
+      "unicode": "e897",
+      "unicode_decimal": 59543
+    },
+    {
+      "icon_id": "1727331",
+      "name": "12库存-线性",
+      "font_class": "kucun-xianxing",
+      "unicode": "e898",
+      "unicode_decimal": 59544
+    },
+    {
+      "icon_id": "1727332",
+      "name": "12库存",
+      "font_class": "kucun",
+      "unicode": "e899",
+      "unicode_decimal": 59545
+    },
+    {
+      "icon_id": "1727333",
+      "name": "13末端网点-线性",
+      "font_class": "moduanwangdian-xianxing",
+      "unicode": "e89a",
+      "unicode_decimal": 59546
+    },
+    {
+      "icon_id": "1727334",
+      "name": "13末端网点",
+      "font_class": "moduanwangdian",
+      "unicode": "e89b",
+      "unicode_decimal": 59547
+    },
+    {
+      "icon_id": "1727339",
+      "name": "14签收、审批通过-线性",
+      "font_class": "qianshoushenpitongguo-xianxing",
+      "unicode": "e89c",
+      "unicode_decimal": 59548
+    },
+    {
+      "icon_id": "1727340",
+      "name": "14签收、审批通过",
+      "font_class": "qianshoushenpitongguo",
+      "unicode": "e89d",
+      "unicode_decimal": 59549
+    },
+    {
+      "icon_id": "1727341",
+      "name": "15拒签收-线性",
+      "font_class": "juqianshou-xianxing",
+      "unicode": "e89e",
+      "unicode_decimal": 59550
+    },
+    {
+      "icon_id": "1727352",
+      "name": "20积分",
+      "font_class": "jifen",
+      "unicode": "e89f",
+      "unicode_decimal": 59551
+    },
+    {
+      "icon_id": "1727353",
+      "name": "20积分-线性",
+      "font_class": "jifen-xianxing",
+      "unicode": "e8a0",
+      "unicode_decimal": 59552
+    },
+    {
+      "icon_id": "1727354",
+      "name": "21优惠劵-线性",
+      "font_class": "youhuijuan-xianxing",
+      "unicode": "e8a1",
+      "unicode_decimal": 59553
+    },
+    {
+      "icon_id": "1727355",
+      "name": "22资料、手册",
+      "font_class": "ziliaoshouce",
+      "unicode": "e8a2",
+      "unicode_decimal": 59554
+    },
+    {
+      "icon_id": "1727356",
+      "name": "22资料、手册-线性",
+      "font_class": "ziliaoshouce-xianxing",
+      "unicode": "e8a3",
+      "unicode_decimal": 59555
+    },
+    {
+      "icon_id": "1727357",
+      "name": "21优惠劵",
+      "font_class": "youhuijuan",
+      "unicode": "e8a4",
+      "unicode_decimal": 59556
+    },
+    {
+      "icon_id": "1727359",
+      "name": "23规则",
+      "font_class": "guize",
+      "unicode": "e8a5",
+      "unicode_decimal": 59557
+    },
+    {
+      "icon_id": "1727376",
+      "name": "32权限、钥匙",
+      "font_class": "quanxianyuechi",
+      "unicode": "e8a6",
+      "unicode_decimal": 59558
+    },
+    {
+      "icon_id": "1727257",
+      "name": "01运输中、物流-线性",
+      "font_class": "yunshuzhongwuliu-xianxing",
+      "unicode": "e882",
+      "unicode_decimal": 59522
+    },
+    {
+      "icon_id": "1727258",
+      "name": "01运输中、物流",
+      "font_class": "yunshuzhongwuliu",
+      "unicode": "e883",
+      "unicode_decimal": 59523
+    },
+    {
+      "icon_id": "1727259",
+      "name": "02包裹、发货",
+      "font_class": "baoguofahuo",
+      "unicode": "e884",
+      "unicode_decimal": 59524
+    },
+    {
+      "icon_id": "1727260",
+      "name": "02包裹、发货-线性",
+      "font_class": "baoguofahuo-xianxing",
+      "unicode": "e885",
+      "unicode_decimal": 59525
+    },
+    {
+      "icon_id": "1727261",
+      "name": "03拆包裹、取件",
+      "font_class": "chaibaoguoqujian",
+      "unicode": "e886",
+      "unicode_decimal": 59526
+    },
+    {
+      "icon_id": "1727262",
+      "name": "03拆包裹、取件-线性",
+      "font_class": "chaibaoguoqujian-xianxing",
+      "unicode": "e887",
+      "unicode_decimal": 59527
+    },
+    {
+      "icon_id": "1727264",
+      "name": "04自提柜",
+      "font_class": "zitigui",
+      "unicode": "e888",
+      "unicode_decimal": 59528
+    },
+    {
+      "icon_id": "1727265",
+      "name": "04自提柜-线性",
+      "font_class": "zitigui-xianxing",
+      "unicode": "e889",
+      "unicode_decimal": 59529
+    },
+    {
+      "icon_id": "1727266",
+      "name": "05采购-线性",
+      "font_class": "caigou-xianxing",
+      "unicode": "e88a",
+      "unicode_decimal": 59530
+    },
+    {
+      "icon_id": "1727267",
+      "name": "05采购",
+      "font_class": "caigou",
+      "unicode": "e88b",
+      "unicode_decimal": 59531
+    },
+    {
+      "icon_id": "1727269",
+      "name": "06商品",
+      "font_class": "shangpin",
+      "unicode": "e88c",
+      "unicode_decimal": 59532
+    },
+    {
+      "icon_id": "1727271",
+      "name": "06商品-线性",
+      "font_class": "shangpin-xianxing",
+      "unicode": "e88d",
+      "unicode_decimal": 59533
+    },
+    {
+      "icon_id": "1727273",
+      "name": "07配载、装车",
+      "font_class": "peizaizhuangche",
+      "unicode": "e88e",
+      "unicode_decimal": 59534
+    },
+    {
+      "icon_id": "1727274",
+      "name": "07配载、装车-线性",
+      "font_class": "peizaizhuangche-xianxing",
+      "unicode": "e88f",
+      "unicode_decimal": 59535
+    },
+    {
+      "icon_id": "1727275",
+      "name": "08质量-线性",
+      "font_class": "zhiliang-xianxing",
+      "unicode": "e890",
+      "unicode_decimal": 59536
+    },
+    {
+      "icon_id": "1727276",
+      "name": "08质量",
+      "font_class": "zhiliang",
+      "unicode": "e891",
+      "unicode_decimal": 59537
+    }
+  ]
+}
